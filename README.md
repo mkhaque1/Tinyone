@@ -43,5 +43,5 @@ This project is licensed under the [M M Khairul Haque] License - see the LICENSE
 
 credits:
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth]font-awesome
-* [dbader]google-fonts
+* font-awesome
+* google-fonts

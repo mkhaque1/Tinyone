@@ -4,7 +4,7 @@ Tinyone - mobile app
 
 ## Description
 
-full responsive
+full responsive link: 
 
 ## Getting Started
 

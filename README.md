@@ -4,7 +4,7 @@ Tinyone - mobile app
 
 ## Description
 
-full responsive link: 
+full responsive link: (https://mkhaque1.github.io/Tinyone/)
 
 ## Getting Started
 
